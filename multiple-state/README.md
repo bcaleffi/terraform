@@ -137,4 +137,4 @@ And in the opposite order of creation you'll run the destroy:
 ```shell
 terraform destroy
 ```
-*If you try to destroy the networking stuff first propably it will timeout because ec2 instance is using the vpc and subnet stuff.*
+*If you try to destroy the networking stuff first probably it will timeout because ec2 instance is using the vpc and subnet stuff.*
